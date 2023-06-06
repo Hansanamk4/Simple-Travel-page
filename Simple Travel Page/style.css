@@ -1,0 +1,22 @@
+body{ background: linear-gradient(white,#000000)
+    
+}
+.a1{
+    color: white;
+}
+.slide1{
+    font-size:3vw;
+    color: white;
+    font-weight: bold;
+    text-shadow: 2px 2px 6px black;
+    
+}
+.slide2{
+    
+    font-size: 2vw;
+    color: white;
+    font-weight: bold;
+    text-shadow: 2px 2px 6px black;
+    
+}
+
